@@ -95,7 +95,7 @@
                 }), n("Footer"), n("Modal", {
                     ref: "paycode",
                     staticClass: "paycode",
-                    attrs: {"btn-text": "喝不了的😶😶😶"}
+                    attrs: {"btn-text": "喝不了的😶"}
                 },)], 1)
             }, s = [], o = function () {
                 var t = this, e = t.$createElement, a = t._self._c || e;
