@@ -96,7 +96,7 @@
                     ref: "paycode",
                     staticClass: "paycode",
                     attrs: {"btn-text": "喝不了的😶😶😶"}
-                }, )], 1)
+                },)], 1)
             }, s = [], o = function () {
                 var t = this, e = t.$createElement, a = t._self._c || e;
                 return a("div", {staticClass: "all"}, [a("div", {
@@ -350,7 +350,7 @@
                 }), a("p", [t._v("test备注来意test")]), t._v(" （比如有没有可能来个带宽资源赞助？电视信号快断粮了，宝～） ")])], 1)
             }, w = [function () {
                 var t = this, e = t.$createElement, a = t._self._c || e;
-                return a("span", {staticClass: "links"}, [a("a", {attrs: {href: "#"}}, [t._v("小电视")])])
+                return a("span", {staticClass: "links"}, [a("a", {attrs: {href: "http://tv.hzfe.org"}}, [t._v("小电视")])])
             }], P = function () {
                 var t = this, e = t.$createElement, a = t._self._c || e;
                 return a("transition", {attrs: {name: "fadein"}}, [a("div", {
